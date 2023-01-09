@@ -5,7 +5,7 @@ Sobre mim:
 - 🔭 Buscando cada vez mais conhecimento para entrar na de cabeça na área.
 - 🌱 Aluno do curso Origamid😎, Aluno do Curso em video🥰, atualmente cursando Analise e desenvolvimento de sistemas na FAM😉.
 - ⚡ Um fato curioso que eu ja iniciei outras duas faculdades enquanto me interessava por programação, mas não consegui continuar por conta que eu nunca me contentava com o curso, até decidir transformar o meu Hobby em meu trabalho, "Trabalhe com o que você ama e nunca mais precisará trabalhar na vida."
-- 😍 Front-end(HTML, CSS, JavaScript e Vue).
+- 😍 Fullstack: Front-end: HTML, CSS, JavaScript, Vue e React. Back-end: Node e seus frameworks.
 <div style="display: inline_block">
    <img align="center" alt="Michael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Michael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
